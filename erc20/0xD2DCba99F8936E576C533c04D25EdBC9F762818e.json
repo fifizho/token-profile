@@ -1,0 +1,15 @@
+{
+  "symbol": "CMCL-TOKEN",
+  "address": "0xD2DCba99F8936E576C533c04D25EdBC9F762818e",
+  "overview":{
+        "en":"The decentralized charitable commonweal donation system based on the underlying technology of blockchain",
+        "zh":"基于区块链底层技术的去中心化慈善公益扶贫捐赠系统。"
+  },
+  "links": {
+        "twitter": "https://twitter/commonwealchain"
+   },
+  "email": "postmaster@cmcl.co",
+  "website": "http://www.cmcl.co/",
+  "whitepaper": "http://www.cmcl.co/images/cmcl_e.pdf",
+  "published_on": "2018-06-10"
+}
